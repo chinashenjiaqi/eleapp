@@ -9,6 +9,7 @@ export default {
   data () {
     return {
       location: "",
+	  nws:"haha ",
     }
   },
   methods: {
